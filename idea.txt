@@ -2,4 +2,4 @@ we are using Arduino IOT Service to automate the household equipments
  
  >_ We need Nodemcu ESP8266
  >_ Basic Idea of Arduino 
- >_ Control LED will give you a basic idea for bigger project
+ >_ Control LED will give you a basic idea for bigger projects
